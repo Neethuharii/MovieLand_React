@@ -61,7 +61,7 @@ searchMovies('spiderman');
   (
     <div className='empty'>
 
-      <h2>Movies not found</h2>
+      <h2>Movies not found.</h2>
       </div>
   )
 }
